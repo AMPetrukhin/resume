@@ -1,0 +1,150 @@
+body {
+  background-color: #e5e5e5;
+  font-family: "Montserrat", sans-serif;
+  width: 1200 px;
+  margin: 40px 0 0 40px;
+  padding: 0 0 0 0;
+}
+.main_cont {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1077px;
+  background-color: #fff;
+  margin: 40px auto;
+  padding: 0 0 0 0;
+  box-shadow: 16px 16px 40px rgba(0, 0, 0, 0.1);
+}
+.about_me {
+  padding: 100px 90px 100px 90px;
+}
+.descript {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+.projekts {
+  margin-bottom: 50px;
+}
+.n_list {
+  padding: 0 0 0 17px;
+}
+.work_block {
+  margin-top: 30px;
+}
+.bold {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+.n_text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 25;
+}
+.titlle {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.titllle {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+.titlllle {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+.term {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+.side_bar {
+  background-color: #1e2939;
+}
+.bar_tit {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+.foto {
+  width: 370px;
+  margin-top: 80px;
+}
+.grey {
+  padding: 0 0 0 17px;
+  margin: 10px 0 20px 0;
+  width: 510px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.black {
+  color: #000;
+}
+.contact,
+.tech,
+.soft {
+  margin: 50px 0 0 40px;
+}
+.type_cb {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 7px;
+}
+.type_link {
+  color: #565e6a;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+.tech_soft {
+  padding: 0 0 0 17px;
+}
+
+.ts_text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
